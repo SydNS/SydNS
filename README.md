@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ![screenshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sydns)
 
+![screenshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=sydns)
+
 
 ![screenshot](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sydns)
 
