@@ -18,7 +18,6 @@
 
 
 
-![screenshot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=sydns)
 
 ![screenshot](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sydns)
 
