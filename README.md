@@ -13,13 +13,10 @@
 - 😄 Pronouns: he/him
 
 
-<!-- 🔭 I’m currently working on my Android Development and Wordpress Developmen  -->
-🌱 I’m currently learning Kotlin and Jetpack Compose...
+🔭 I’m currently working with Spring Boot and doing Microservices
+🌱 I’m currently learning and working with Kotlin and Jetpack Compose...
 
 
-
-
-![screenshot](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sydns)
 
 
 
