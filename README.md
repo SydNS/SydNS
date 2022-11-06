@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on android applications
 - 🤔 I’m looking for help and guidance as far as my above passions are concerned I'm very happy for feedback and pointers
 - 💬 Ask me about Java SpringBoot Python-Djang and  Android Development (I love this field), data analysis with google suite app,
-- 📫 Reach me: on twitter @SydNS24, linkedIn- https://www.linkedin.com/in/sydneynsiimbe/
+- 📫 Reach me: on twitter @devSyd;, linkedIn- https://www.linkedin.com/in/sydneynsiimbe/
 - 😄 Pronouns: he/him
 
 
