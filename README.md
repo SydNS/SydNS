@@ -10,6 +10,7 @@
 - 🤔 I’m looking for help and guidance as far as my above passions are concerned I'm very happy for feedback and pointers
 - 💬 Ask me about Java SpringBoot Python-Djang and  Android Development (I love this field), data analysis with google suite app,
 - 📫 Reach me: on twitter @devSyd;, linkedIn- https://www.linkedin.com/in/sydneynsiimbe/
+- Gitlab - https://gitlab.com/SydNS 
 - 😄 Pronouns: he/him
 
 
