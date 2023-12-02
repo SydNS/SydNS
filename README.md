@@ -3,8 +3,8 @@
 <!-- **SydNS/SydNS** -->
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SydNS&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydns&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydns&hide_progress=true)
 - 🔭 I’m currently working on my Software Development Journey Hopefully I learn a thing or two daily
 🌱 I’m currently working with Java SpringBoot,Php Laravel and Javascript React and Vue
 - 👯 I’m looking to collaborate on some Web applications
