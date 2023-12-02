@@ -17,7 +17,6 @@
 🔭 I’m currently working with Spring Boot and doing Microservices
 🌱 I’m currently learning and working with Kotlin and Jetpack Compose...
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sydns)](https://github.com/anuraghazra/github-readme-stats)
 
 
