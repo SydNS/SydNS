@@ -2,6 +2,10 @@
 
 <!-- **SydNS/SydNS** -->
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sydns&show_icons=true&locale=en&layout=compact" alt="sydns" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sydns&" alt="sydns" /></p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SydNS&show_icons=true&theme=dark)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sydns" alt="sydns" /></a> </p>
