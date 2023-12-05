@@ -1,5 +1,7 @@
 ### Hi there 👋 **Sydney Nsiimbe here**
 
+- 🔭 I’m currently working on my Software Development Journey Hopefully I learn a thing or two daily
+🌱 I’m currently working with Java SpringBoot, Php Laravel, and Javascript React and Vue
 <!-- **SydNS/SydNS** -->
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sydns&" alt="sydns" /></p>
@@ -11,8 +13,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sydns&hide_progress=true)
-- 🔭 I’m currently working on my Software Development Journey Hopefully I learn a thing or two daily
-🌱 I’m currently working with Java SpringBoot,Php Laravel and Javascript React and Vue
 - 👯 I’m looking to collaborate on some Web applications
 - 🤔 I’m looking for help and guidance as far as my above passions are concerned I'm very happy for feedback and pointers
 - 💬 Ask me about Java SpringBoot Python-Django,Larvel Vue, data analysis with Google Suite app,
