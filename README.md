@@ -9,7 +9,7 @@
 
 💬 Ask me about Java SpringBoot Python-Django, Laravel Vue, data analysis with Google Suite app.
 
-📫 Reach me: on Twitter @devSyd, LinkedIn [Sydney Nsiimbe](https://www.linkedin.com/in/sydneynsiimbe/), GitLab [SydNS](https://gitlab.com/SydNS).
+📫 Reach me: on Twitter @dev-Syd, LinkedIn [Sydney Nsiimbe](https://www.linkedin.com/in/sydneynsiimbe/), GitLab [SydNS](https://gitlab.com/SydNS).
 
 😄 Pronouns: he/him
 
