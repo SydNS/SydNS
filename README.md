@@ -1,9 +1,7 @@
 ### Hi there 👋 **Sydney Nsiimbe here**
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sydns&" alt="sydns" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sydns&show_icons=true&locale=en&layout=compact" alt="sydns" /></p>
 - 🔭 I’m currently working on my Software Development Journey Hopefully I learn a thing or two daily
 🌱 I’m currently working with Java SpringBoot, Php Laravel, and Javascript React and Vue
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sydns&" alt="sydns" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sydns&show_icons=true&locale=en&layout=compact" alt="sydns" /></p>
 - 👯 I’m looking to collaborate on some Web applications
 - 🤔 I’m looking for help and guidance as far as my above passions are concerned I'm very happy for feedback and pointers
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sydns" alt="sydns" /></a> </p>
